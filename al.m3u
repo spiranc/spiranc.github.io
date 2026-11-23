@@ -1,0 +1,98 @@
+#EXTM3U
+############################
+# Albania |
+############################
+#EXTINF: tvg-name="RTV21" tvg-id="RTV21" tvg-logo="https://upload.wikimedia.org/wikipedia/de/c/c9/RTV-Logo1.png" group-title="Albania",RTV21
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/2cz-npl-jfn-9he/index.m3u8
+#EXTINF: tvg-name="T7" tvg-id="T7" tvg-logo="https://i.postimg.cc/sxcZ6SVy/t7.png" group-title="Albania",T7
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/index.m3u8
+#EXTINF: tvg-id="Kohavision" tvg-logo="https://i.imgur.com/LOi9yma.png" group-title="Albania",Kohavision
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/lj9-pxm-o53-rp0/index.m3u8
+#EXTINF: tvg-id="RTK1" tvg-logo="https://i.postimg.cc/wjHH0JS7/rtk1.png" group-title="Albania",RTK1
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk-sat/index.m3u8
+#EXTINF: tvg-id="RTK3" tvg-logo="https://g0eylj1rzj.gjirafa.net/media/zykxzk/thumbnails/standart.jpg" group-title="Albania",RTK3
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
+#EXTINF: tvg-id="ATV" tvg-logo="" group-title="Albania", ATV
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/0nj-g63-92x-few/index.m3u8
+#EXTINF: tvg-id="ZICO TV" tvg-logo="" group-title="Albania", ZICO TV
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/j3a-n14-2pf-g3s/index.m3u8
+#EXTINF: tvg-id="TVArta" tvg-logo="https://i.imgur.com/MAhJkK9.png" group-title="Albania",TV Arta
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/mps-vgx-u9p-qv1/index.m3u8
+#EXTINF: tvg-id="TVSyri" tvg-logo="https://i.imgur.com/ZQuFosn.png" group-title="Albania",TV Syri
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/xej-xnb-ba0-kup/index.m3u8
+#EXTINF: tvg-id="News24",News 24
+https://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF: tvg-id="VizionPlus",Vizion Plus
+https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8
+https://www.rtvpendimi.com:19360/tvpendimi/tvpendimi.m3u8
+#EXTINF:,RTV Besa HD
+https://gjirafa-video-live.gjirafa.net/gjvideo-live-n1/ehn-g2o-v7w-nh4/index.m3u8
+#EXTINF: tvg-name="A2 CNN Albania" tvg-logo="https://i.imgur.com/TgO3Lzi.png" tvg-id="A2CNN.al" group-title="Albania",A2 CNN Albania
+https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
+#EXTINF: tvg-name="CNA" tvg-logo="https://i.imgur.com/X3ukD5t.png" tvg-id="CNA.al" group-title="Albania",CNA
+https://live1.mediadesk.al/cnatvlive.m3u8
+#EXTINF: tvg-name="Tropoja" tvg-logo="https://i.imgur.com/D3hNOVS.png" tvg-id="TropojaTelevizion.al" group-title="Albania",Tropoja
+https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
+###########################
+# Cameras
+############################
+#EXTINF:,Station i Autobusave
+https://gjirafa-video-live.gjirafa.net/gjvideo-slow/266-akn-5qn-yn0/index.m3u8
+#EXTINF:,ICk Prishtine
+https://gjirafa-video-live.gjirafa.net/gjvideo-slow/fpl-k9c-zgc-l8i/index.m3u8
+#EXTINF:,Tokbashqe, Prishtinë
+https://gjirafa-video-live.gjirafa.net/gjvideo-slow/klg-iqz-39a-4dd/index.m3u8
+#EXTINF:,Aktash, Prishtinë
+https://gjirafa-video-live.gjirafa.net/gjvideo-slow/fpl-k9c-zgc-l8i/index.m3u8
+#EXTINF:,Ulpianë, Prishtinë
+https://gjirafa-video-live.gjirafa.net/gjvideo-slow/mc7-cgv-ra3-a61/index.m3u8
+#EXTINF:,Bregu i Diellit 1
+https://gjirafa-video-live.gjirafa.net/gjvideo-slow/jrl-15u-0vp-6r8/index.m3u8
+EXTINF:,Bill Clinton, Prishtinë
+https://gjirafa-video-live.gjirafa.net/gjvideo-slow/gc7-uqp-83k-jfm/index.m3u8
+#EXTINF:,Pejton
+https://gjirafa-video-live.gjirafa.net/gjvideo-slow/dsh-ipv-i07-bhk/rewind-14400.m3u8
+#EXTINF:,Pejton 2
+https://gjirafa-video-live.gjirafa.net/gjvideo-slow/8r3-vis-lpe-q6i/index.m3u8
+#EXTINF:,Veternik
+https://gjirafa-video-live.gjirafa.net/gjvideo-slow/b67-snx-umr-u3e/index.m3u8
+#EXTINF:,Veternik 2
+https://gjirafa-video-live.gjirafa.net/gjvideo-slow/fow-fmi-937-dfk/index.m3u8
+#EXTINF:,Rethi i Çagllavices
+https://gjirafa-video-live.gjirafa.net/gjvideo-slow/0lw-i4w-afw-9pp/rewind-14400.m3u8
+#EXTINF:,Rethi i Arabeve
+https://gjirafa-video-live.gjirafa.net/gjvideo-slow/6e1-odv-tb6-izw/index.m3u8
+#EXTINF:,Qendra e Gjakovës 
+https://gjirafa-video-live.gjirafa.net/gjvideo-slow/txu-9qc-kab-9fm/index.m3u8
+#EXTINF:,Magjistralja Vushtrri-Mitrovice
+https://gjirafa-video-live.gjirafa.net/gjvideo-slow/zc6-dfj-mel-af4/index.m3u8
+#EXTINF:,Brezovicë
+https://gjirafa-video-live.gjirafa.net/gjvideo-slow/2ou-jkw-pro-np1/index.m3u8
+#EXTINF:,Brezovica 2
+https://gjirafa-video-live.gjirafa.net/gjvideo-slow/4ts-tn1-9do-044/index.m3u8
+#EXTINF:,Fushë Kosov
+https://gjirafa-video-live.gjirafa.net/gjvideo-slow/5zv-jaz-xqj-y20/index.m3u8
+#EXTINF:,Qendra e Prizrenit
+https://gjirafa-video-live.gjirafa.net/gjvideo-slow/ot9-y9c-qoh-yoi/index.m3u8
+#EXTINF:,Bazhderhane, Prizren
+https://gjirafa-video-live.gjirafa.net/gjvideo-slow/9k5-wck-zyl-g9e/index.m3u8
+#EXTINF:,Rr.Tirana, Prizren
+https://gjirafa-video-live.gjirafa.net/gjvideo-slow/2js-h9r-l1y-rwo/index.m3u8
+#EXTINF:,Ortakoll: Wesley Clark, Prizren
+https://gjirafa-video-live.gjirafa.net/gjvideo-slow/yfv-44d-9m7-6sy/index.m3u8
+#EXTINF:, Çabrat
+https://gjirafa-video-live.gjirafa.net/gjvideo-slow/dfw-81l-fa8-9bf/index.m3u8
+#EXTINF:,Qendra  Ferizaj
+https://gjirafa-video-live.gjirafa.net/gjvideo-slow/6g8-4xi-1f0-x1h/index.m3u8
+#EXTINF:,Ferizaj
+https://gjirafa-video-live.gjirafa.net/gjvideo-slow/0a9-nwg-woa-8xy/index.m3u8
+#EXTINF:,Deqan
+https://gjirafa-video-live.gjirafa.net/gjvideo-slow/e1f-oy3-gat-494/rewind-14400.m3u8
+#EXTINF:,Gjilan
+https://gjirafa-video-live.gjirafa.net/gjvideo-slow/zrt-0fr-wyv-9o0/index.m3u8
+#EXTINF:,Brod, Dragash
+https://gjirafa-video-live.gjirafa.net/gjvideo-slow/fcb-hbv-iko-oti/index.m3u8
+#EXTINF:,Vërmicë
+https://gjirafa-video-live.gjirafa.net/gjvideo-slow/l1z-w6n-4r1-i4i/index.m3u8
+#EXTINF:,Gjirafa HQ
+https://gjirafa-video-live.gjirafa.net/gjvideo-slow/d6z-d0g-aej-30s/index.m3u8
