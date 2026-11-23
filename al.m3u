@@ -38,12 +38,8 @@ https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
 ############################
 #EXTINF:,Station i Autobusave
 https://gjirafa-video-live.gjirafa.net/gjvideo-slow/266-akn-5qn-yn0/index.m3u8
-#EXTINF:,ICk Prishtine
-https://gjirafa-video-live.gjirafa.net/gjvideo-slow/fpl-k9c-zgc-l8i/index.m3u8
 #EXTINF:,Tokbashqe, Prishtinë
 https://gjirafa-video-live.gjirafa.net/gjvideo-slow/klg-iqz-39a-4dd/index.m3u8
-#EXTINF:,Aktash, Prishtinë
-https://gjirafa-video-live.gjirafa.net/gjvideo-slow/fpl-k9c-zgc-l8i/index.m3u8
 #EXTINF:,Ulpianë, Prishtinë
 https://gjirafa-video-live.gjirafa.net/gjvideo-slow/mc7-cgv-ra3-a61/index.m3u8
 #EXTINF:,Bregu i Diellit 1
@@ -51,7 +47,7 @@ https://gjirafa-video-live.gjirafa.net/gjvideo-slow/jrl-15u-0vp-6r8/index.m3u8
 EXTINF:,Bill Clinton, Prishtinë
 https://gjirafa-video-live.gjirafa.net/gjvideo-slow/gc7-uqp-83k-jfm/index.m3u8
 #EXTINF:,Pejton
-https://gjirafa-video-live.gjirafa.net/gjvideo-slow/dsh-ipv-i07-bhk/rewind-14400.m3u8
+https://gjirafa-video-live.gjirafa.net/gjvideo-slow/dsh-ipv-i07-bhk/index.m3u8
 #EXTINF:,Pejton 2
 https://gjirafa-video-live.gjirafa.net/gjvideo-slow/8r3-vis-lpe-q6i/index.m3u8
 #EXTINF:,Veternik
@@ -59,7 +55,7 @@ https://gjirafa-video-live.gjirafa.net/gjvideo-slow/b67-snx-umr-u3e/index.m3u8
 #EXTINF:,Veternik 2
 https://gjirafa-video-live.gjirafa.net/gjvideo-slow/fow-fmi-937-dfk/index.m3u8
 #EXTINF:,Rethi i Çagllavices
-https://gjirafa-video-live.gjirafa.net/gjvideo-slow/0lw-i4w-afw-9pp/rewind-14400.m3u8
+https://gjirafa-video-live.gjirafa.net/gjvideo-slow/0lw-i4w-afw-9pp/index.m3u8
 #EXTINF:,Rethi i Arabeve
 https://gjirafa-video-live.gjirafa.net/gjvideo-slow/6e1-odv-tb6-izw/index.m3u8
 #EXTINF:,Qendra e Gjakovës 
@@ -74,27 +70,17 @@ https://gjirafa-video-live.gjirafa.net/gjvideo-slow/4ts-tn1-9do-044/index.m3u8
 https://gjirafa-video-live.gjirafa.net/gjvideo-slow/5zv-jaz-xqj-y20/index.m3u8
 #EXTINF:,Qendra e Prizrenit
 https://gjirafa-video-live.gjirafa.net/gjvideo-slow/ot9-y9c-qoh-yoi/index.m3u8
-#EXTINF:,Bazhderhane, Prizren
-https://gjirafa-video-live.gjirafa.net/gjvideo-slow/9k5-wck-zyl-g9e/index.m3u8
 #EXTINF:,Rr.Tirana, Prizren
 https://gjirafa-video-live.gjirafa.net/gjvideo-slow/2js-h9r-l1y-rwo/index.m3u8
 #EXTINF:,Ortakoll: Wesley Clark, Prizren
 https://gjirafa-video-live.gjirafa.net/gjvideo-slow/yfv-44d-9m7-6sy/index.m3u8
-#EXTINF:, Çabrat
-https://gjirafa-video-live.gjirafa.net/gjvideo-slow/dfw-81l-fa8-9bf/index.m3u8
 #EXTINF:,Qendra  Ferizaj
 https://gjirafa-video-live.gjirafa.net/gjvideo-slow/6g8-4xi-1f0-x1h/index.m3u8
 #EXTINF:,Ferizaj
 https://gjirafa-video-live.gjirafa.net/gjvideo-slow/0a9-nwg-woa-8xy/index.m3u8
-#EXTINF:,Deqan
-https://gjirafa-video-live.gjirafa.net/gjvideo-slow/e1f-oy3-gat-494/rewind-14400.m3u8
 #EXTINF:,Gjilan
 https://gjirafa-video-live.gjirafa.net/gjvideo-slow/zrt-0fr-wyv-9o0/index.m3u8
-#EXTINF:,Brod, Dragash
-https://gjirafa-video-live.gjirafa.net/gjvideo-slow/fcb-hbv-iko-oti/index.m3u8
 #EXTINF:,Vërmicë
 https://gjirafa-video-live.gjirafa.net/gjvideo-slow/l1z-w6n-4r1-i4i/index.m3u8
-#EXTINF:,Gjirafa HQ
-https://gjirafa-video-live.gjirafa.net/gjvideo-slow/d6z-d0g-aej-30s/index.m3u8
 #EXTINF:,Batllavë
 https://gjirafa-video-live.gjirafa.net/gjvideo-slow/csp-55q-v2g-cls/index.m3u8
